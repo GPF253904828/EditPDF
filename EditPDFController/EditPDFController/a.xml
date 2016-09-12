@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eform filename="AmendmentToApplicationForPolicy_PoliticallyExposedPerson.pdf" pagecount="1" yoffset="0" >
+<field cid="1,11" name="selfname" x="83" y="502" width="360" height="31"  type="TextField"  content="" fontsize="10" align="left" page="1" inputtype="All" maxlen="22" pareantname="" groupid="" require=""/>
+<field cid="1,16" name="question1.2" x="634" y="765" width="21" height="21"  type="Checkbox"  content="" fontsize="10" align="left" page="1" inputtype="All" maxlen="0" pareantname="" groupid="1.15" require=""/>
+<field cid="1,6" name="OWNERIDNO." x="561" y="290" width="260" height="31"  type="TextView"  content="" fontsize="10" align="left" page="1" inputtype="All" maxlen="0" pareantname="" groupid="" require=""/>
+<field cid="1,20" name="question2.2" x="634" y="827" width="21" height="21"  type="Checkbox"  content="" fontsize="10" align="left" page="1" inputtype="All" maxlen="0" pareantname="" groupid="1.19" require=""/>
+<field cid="1,2" name="policyno" x="52" y="290" width="240" height="31"  type="TextView"  content="" fontsize="10" align="left" page="1" inputtype="All" maxlen="0" pareantname="" groupid="" require=""/>
+<field cid="1,14" name="applicant" x="221" y="631" width="685" height="31"  type="TextField"  content="" fontsize="10" align="left" page="1" inputtype="All" maxlen="45" pareantname="" groupid="" require=""/>
+<field cid="1,7" name="agentcode" x="562" y="371" width="260" height="31"  type="TextView"  content="" fontsize="10" align="left" page="1" inputtype="All" maxlen="0" pareantname="" groupid="" require=""/>
+<field cid="1,19" name="question2.1" x="581" y="827" width="21" height="21"  type="Checkbox"  content="" fontsize="10" align="left" page="1" inputtype="All" maxlen="0" pareantname="" groupid="1.19" require=""/>
+<field cid="1,23" name="question3" x="50" y="935" width="890" height="31"  type="TextField"  content="" fontsize="10" align="left" page="1" inputtype="All" maxlen="55" pareantname="" groupid="" require=""/>
+<field cid="1,12" name="date" x="777" y="501" width="145" height="31"  type="Date"  content="" fontsize="10" align="left" page="1" inputtype="All" maxlen="0" pareantname="" groupid="" require=""/>
+<field cid="1,3" name="ownername" x="296" y="290" width="260" height="31"  type="TextView"  content="" fontsize="10" align="left" page="1" inputtype="All" maxlen="0" pareantname="" groupid="" require=""/>
+<field cid="1,17" name="question1.3" x="764" y="765" width="21" height="21"  type="Checkbox"  content="" fontsize="10" align="left" page="1" inputtype="All" maxlen="0" pareantname="" groupid="1.17" require=""/>
+<field cid="1,8" name="agencyname" x="296" y="371" width="260" height="31"  type="TextView"  content="" fontsize="10" align="left" page="1" inputtype="All" maxlen="0" pareantname="" groupid="" require=""/>
+<field cid="1,21" name="question2.3" x="764" y="827" width="21" height="21"  type="Checkbox"  content="" fontsize="10" align="left" page="1" inputtype="All" maxlen="0" pareantname="" groupid="1.21" require=""/>
+<field cid="1,10" name="agentphone" x="563" y="454" width="260" height="31"  type="TextView"  content="" fontsize="10" align="left" page="1" inputtype="All" maxlen="0" pareantname="" groupid="" require=""/>
+<field cid="1,15" name="question1.1" x="581" y="765" width="21" height="21"  type="Checkbox"  content="" fontsize="10" align="left" page="1" inputtype="All" maxlen="0" pareantname="" groupid="1.15" require=""/>
+<field cid="1,9" name="agentname" x="296" y="454" width="260" height="31"  type="TextView"  content="" fontsize="10" align="left" page="1" inputtype="All" maxlen="0" pareantname="" groupid="" require=""/>
+<field cid="1,13" name="pinsured" x="221" y="603" width="685" height="31"  type="TextField"  content="" fontsize="10" align="left" page="1" inputtype="All" maxlen="45" pareantname="" groupid="" require=""/>
+<field cid="1,5" name="areacode" x="51" y="371" width="240" height="31"  type="TextView"  content="" fontsize="10" align="left" page="1" inputtype="All" maxlen="0" pareantname="" groupid="" require=""/>
+<field cid="1,18" name="question1.4" x="837" y="765" width="21" height="21"  type="Checkbox"  content="" fontsize="10" align="left" page="1" inputtype="All" maxlen="0" pareantname="" groupid="1.17" require=""/>
+<field cid="1,22" name="question2.4" x="837" y="827" width="21" height="21"  type="Checkbox"  content="" fontsize="10" align="left" page="1" inputtype="All" maxlen="0" pareantname="" groupid="1.21" require=""/>
+</eform>
